@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shalini 👋
 
-<!--
-**Shalinipandey11/Shalinipandey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Bioinformatics student at Pondicherry University  
+💻 Currently learning Python, Git, GitHub, and Bioinformatics tools  
+🧬 Interested in Genomics, NGS, and Data Science  
+📚 Building projects to improve programming and analytical skills  
 
-Here are some ideas to get you started:
+## Technologies I'm Learning
+- MySQL
+- Python
+- Git & GitHub
+- NumPy
+- Pandas
+- Bioinformatics
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build strong programming fundamentals
+- Work on bioinformatics projects
+- Prepare for internships and placements
+- Explore genome data science
+
+## Projects
+- Python File Manager
+- More projects coming soon...
+
+
